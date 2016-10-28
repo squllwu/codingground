@@ -31,3 +31,4 @@ if len(num) == 0:
 
 if num.isalpha():
     print("input number between 3 and 10")
+//注释
